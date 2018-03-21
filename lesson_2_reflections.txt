@@ -1,15 +1,17 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Assuming you are not cloning a preexisting repository, you need to start with 
-a foundation like this for a new repository.
+	Assuming you are not cloning a preexisting repository, you need to start with 
+	a foundation like this for a new repository.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-I get the impression that the staging area provides an area to create changes or possibly share the file for collaborative work prior to the commit.
+	I get the impression that the staging area provides an area to create changes or possibly share the file for collaborative work prior to the commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	Make sure you perform a commit on a logical stopping point. In addition write a comment on the commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
