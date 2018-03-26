@@ -16,12 +16,23 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches will augment concurrent coding with multiple coders. They will also help
+	when trying out new code concepts that may not require a merge or commit.
+
 How do the diagrams help you visualize the branch structure?
+
+	The diagrams give a graphic representation of the structure and order of the 
+	version control of a project.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The branch is merged into the main phase of a coding project and becomes the new 
+	head (apparently). 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-	One con of Git automatic merging is:
+	Manual merges will allow the coder or project lead to choose and merge in the 
+	optimal code changes to the Main flow of the project. This may be optimized if 
+	all contributing coders give input as the merge is processed.
